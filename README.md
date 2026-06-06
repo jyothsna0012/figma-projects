@@ -1,4 +1,5 @@
 project 1:
+
 3. Digital Banking Super Dashboard
 
 Design a full banking experience (payments, loans, investments, cards).
@@ -12,6 +13,7 @@ Financial data clarity
 
 
 project2:
+
 7. Smart Home IoT Control System
 
 Design a centralized dashboard for controlling smart devices.
